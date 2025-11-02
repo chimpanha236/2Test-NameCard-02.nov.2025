@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Moul&family=Rubik:ital,wght@0,300..900;1,300..900&family=Siemreap&display=swap');
+
+.Bg-top1{ width: 100% ;;margin-top: 0px; align-content: center;
+
+}
+
+
+body{
+    background-image: url(/logo\ Grk\ PNG\ NEW.png);
+    height: auto; width: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50%;
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+}
+body{
+    background-color: rgb(1, 1, 65); width: auto; height: auto;
+}
+
+.Text-4{
+    color: white; background-color: red; width: auto; padding: 1%;
+    font-family:  "Moul", serif,"Rubik", sans-serif; font-size: 100% ; 
+    text-align: center;
+}
+.Pic-pf-1{ display: flex; width: 30%; margin: auto; justify-content: center;
+
+}
+.Namekh-1{
+    font-family: "Moul", serif; margin-top: -2%; margin-bottom: 1%; font-size: 120%;
+}
+
+.div1 { color: gold; font-size: 70%; text-align: left; text-shadow: 0.5px 0.5px green;
+    font-family:"Siemreap", sans-serif, "Rubik", sans-serif ;
+    border-radius: 15px; margin-top: 
+  ;background-color: rgb(2, 2, 168); opacity: 90%;
+  padding: 2%; 
+  width: auto%;
+  height: auto%; 
+  margin-left: 20%; margin-right: 20%;}
+ 
+.footer-1{ color: white; font-family:"Siemreap", sans-serif; font-size: auto; text-align: center ; line-height: 1%; }
+.footer-2{color: white; font-family:"Siemreap", sans-serif; font-size: auto; text-align: center  ; line-height: 1%;}
+
+a {color: white; font-size: medium; margin-left: auto; margin-right: auto;width: auto; height: auto;}
+p{color: aquamarine;}
+.ID1{
+    color: black;
+}
+a:link, a:active{ background-color: red; opacity: 70%;
+    color: white; padding: 5px 40px; text-align: center; display: inline-block;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
