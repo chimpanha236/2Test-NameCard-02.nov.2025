@@ -20,14 +20,14 @@ body{
 
 .Text-4{
     color: white; background-color: red; width: auto; padding: 1%;
-    font-family:  "Moul", serif,"Rubik", sans-serif; font-size: 130% ; 
+    font-family:  "Moul", serif,"Rubik", sans-serif; font-size: 150% ; 
     text-align: center;
 }
 .Pic-pf-1{ display: flex; width: 30%; margin: auto; justify-content: center;
 
 }
 .Namekh-1{
-    font-family: "Moul", serif; margin-top: -2%; margin-bottom: 1%; font-size: 120%;
+    font-family: "Moul", serif; margin-top: -2%; margin-bottom: 1%; font-size: 150%;
 }
 
 .div1 { color: gold; font-size: 70%; text-align: left; text-shadow: 0.5px 0.5px green;
