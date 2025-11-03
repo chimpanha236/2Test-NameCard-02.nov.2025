@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Moul&family=Rubik:ital,wght@0,300..900;1,300..900&family=Siemreap&display=swap');
 
-.Bg-top1{ width: 100% ;;margin-top: 0px; align-content: center;
+.Bg-top1{ width: 100% ;;margin-top: 0px; align-content: center; margin-bottom: 1px;
 
 }
+
 
 
 body{
@@ -19,40 +20,42 @@ body{
 }
 
 .Text-4{
-    color: white; background-color: red; width: auto; padding: 1%;
-    font-family:  "Moul", serif,"Rubik", sans-serif; font-size: 150% ; 
+    color: white; background-color: red; width: auto; padding: 1%; margin-top: 0vw;
+    font-family:  "Moul", serif,"Rubik", sans-serif; font-size: 3vw ; 
     text-align: center;
 }
-.Pic-pf-1{ display: flex; width: 30%; margin: auto; justify-content: center;
+.Pic-pf-1{ display: flex; width: 30%; margin: auto; justify-content: center; margin-top: ;}
 
-}
-.Namekh-1{
-    font-family: "Moul", serif; margin-top: -2%; margin-bottom: 1%; font-size: 170%;
+
+
+.table-1 table, td,th {  border-collapse: collapse; padding: 0.7vw; 
+ border: 2px solid white; text-align: left; font-family: "moul", "siemreap"; margin-left: 50vw; margin-right: 20vw;
+box-shadow: 0 0 5px white;}
+
+table{ border-collapse: collapse; margin-left: 8vw; margin-right: 5vw; background-color: rgb(1, 60, 1); margin-top: 1vw; }
+.table-1 th { color: white  ; min-width: 30vw } 
+
+.table-1 td{ color:white; font-family: "Siemreap"; min-width: 50vw}
+
+.note-1{ color: white; font-family: "Siemreap", sans-serif; font-size: 1.5vw; border: 1px red;border-radius: 05px;
+padding: 1%; background-color: red; margin-left: 8%; margin-right: 3%; text-justify: auto;
 }
 
-.div1 { color: gold; font-size: 100%; text-align: left; text-shadow: 0.5px 0.5px green;
-    font-family:"Siemreap", sans-serif, "Rubik", sans-serif ;
-    border-radius: 15px; margin-top: 
-  ;background-color: rgb(2, 2, 168); opacity: 90%;
-  padding: 2%; 
-  width: auto%;
-  height: auto%; 
-  margin-left: 20%; margin-right: 20%;}
+
  
-.footer-1{ color: white; font-family:"Siemreap", sans-serif; font-size: auto; text-align: center ; line-height: 1%; }
-.footer-2{color: white; font-family:"Siemreap", sans-serif; font-size: auto; text-align: center  ; line-height: 1%;}
+.footer-1{ color: white; font-family:"Siemreap", sans-serif; font-size: 1.2vw; text-align: center ; line-height: 1%; }
+.footer-2{color: white; font-family:"Siemreap", sans-serif; font-size: 1.2vw ; text-align: center  ; line-height: 1%;}
 
 a {color: white; font-size: medium; margin-left: auto; margin-right: auto;width: auto; height: auto;}
 p{color: aquamarine;}
 .ID1{
     color: black;
 }
-a:link, a:active{ background-color: red; opacity: 70%;
-    color: white; padding: 5px 40px; text-align: center; display: inline-block;
-    
-
+a:link, a:active{ background-color: red; opacity: 70%; align-items: center; 
+    color: white; line-height: 1.5vw ; padding: 1px;
 }
-
+.all-right{color: white; text-align: center; font-family:"siemreap"; background-color: cadetblue;
+font-size: 2.5vw; padding: px; height: 4vw;}
 
 
 
